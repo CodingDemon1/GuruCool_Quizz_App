@@ -51,7 +51,7 @@ To run the application locally, follow these steps:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/quiz-app-backend.git
+   git clone https://github.com/CodingDemon1/GuruCool_Quizz_App
    ```
 
 2. Install dependencies:
