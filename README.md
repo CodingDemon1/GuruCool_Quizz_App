@@ -48,23 +48,24 @@ A cron job is scheduled to run every minute, updating the status of quizzes base
 
 To run the application locally, follow these steps:
 
-    1. Clone the repository:
-    ```
-    git clone https://github.com/your-username/quiz-app-backend.git
-    ```
+1. Clone the repository:
 
-    2. Install dependencies:
+   ```
+   git clone https://github.com/your-username/quiz-app-backend.git
+   ```
 
-    ```
-    npm install
-    ```
+2. Install dependencies:
 
+   ```
+   npm install
+   ```
 
-    3. Set up your MongoDB connection by creating a .env file with the following content:
-    ```
-    MONGO_URI=your_mongo_connection_string
-    PORT=8000
-    ```
+3. Set up your MongoDB connection by creating a .env file with the following content:
+
+   ```
+   MONGO_URI=your_mongo_connection_string
+   PORT=8000
+   ```
 
 4. Start the server:
    ```
